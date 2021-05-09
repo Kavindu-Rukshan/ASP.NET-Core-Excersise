@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core Excersise1", "ASP.NET Core Excersise1\ASP.NET Core Excersise1.csproj", "{F3C4CB0C-2CF7-499F-8CAF-ABDD1183F650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C4CB0C-2CF7-499F-8CAF-ABDD1183F650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C4CB0C-2CF7-499F-8CAF-ABDD1183F650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C4CB0C-2CF7-499F-8CAF-ABDD1183F650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C4CB0C-2CF7-499F-8CAF-ABDD1183F650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A6060F-7372-45A8-9BA9-B294E6017472}
+	EndGlobalSection
+EndGlobal

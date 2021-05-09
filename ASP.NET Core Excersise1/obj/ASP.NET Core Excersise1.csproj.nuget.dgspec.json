@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\E Backup\\Codes\\ASP.NET\\ASP.NET Core\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1.csproj": {}
+  },
+  "projects": {
+    "F:\\E Backup\\Codes\\ASP.NET\\ASP.NET Core\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\E Backup\\Codes\\ASP.NET\\ASP.NET Core\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1.csproj",
+        "projectName": "ASP.NET Core Excersise1",
+        "projectPath": "F:\\E Backup\\Codes\\ASP.NET\\ASP.NET Core\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1.csproj",
+        "packagesPath": "C:\\Users\\Kavindu\\.nuget\\packages\\",
+        "outputPath": "F:\\E Backup\\Codes\\ASP.NET\\ASP.NET Core\\ASP.NET Core Excersise1\\ASP.NET Core Excersise1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kavindu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FormFactory": {
+              "target": "Package",
+              "version": "[5.0.77, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

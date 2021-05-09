@@ -1,0 +1,45 @@
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.exe
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.deps.json
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.runtimeconfig.json
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.runtimeconfig.dev.json
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.pdb
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.Views.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\ASP.NET Core Excersise1.Views.pdb
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.csprojAssemblyReference.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.AssemblyInfoInputs.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.AssemblyInfo.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.RazorAssemblyInfo.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.RazorAssemblyInfo.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.TagHelpers.input.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.TagHelpers.output.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.RazorCoreGenerate.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\UserLogin\Index.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.RazorTargetAssemblyInfo.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.RazorTargetAssemblyInfo.cs
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.Views.pdb
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Excersise1.StaticWebAssets.Manifest.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Excersise1.StaticWebAssets.xml
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.pdb
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.genruntimeconfig.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.csproj.CopyComplete
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\FormFactory.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\es-ES\FormFactory.resources.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\nl\FormFactory.resources.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\bin\Debug\netcoreapp3.1\pt-BR\FormFactory.resources.dll
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.csproj.CoreCompileInputs.cache
+F:\E Backup\Codes\ASP.NET\ASP.NET Core\ASP.NET Core Excersise1\ASP.NET Core Excersise1\obj\Debug\netcoreapp3.1\ASP.NET Core Excersise1.MvcApplicationPartsAssemblyInfo.cache

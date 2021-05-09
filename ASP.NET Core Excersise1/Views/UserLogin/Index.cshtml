@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ASP.NET_Core_Excersise1.Models.UserLogin
+@{
+   // Layout = "_Layout";
+    ViewData["Title"] = "UserLogin";
+}
+
+<form method="post" action="/UserLogin/Index">
+    <div class="form-horizontal">
+        <h1>Login</h1>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Username" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Password" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Password" type="password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" value="Login" class="form-control" />
+            </div>
+        </div>
+
+    </div>
+
+</form>
